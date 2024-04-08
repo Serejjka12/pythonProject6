@@ -3,4 +3,4 @@ print("PADAR")
 print("HUESOS")
 
 print("ffdfdfdfdfdfdfdfdfdfdfdfdfdf")
-print("FFDDDDDdddddd1111111111111111ddddddDDDDD")
+print("FFDDDDDdddddd111111111111ff1111ddddddDDDDD")
